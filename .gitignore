@@ -1,0 +1,16 @@
+*.userprefs
+*.log
+*.pdf
+*.pidb
+*.suo
+*.out
+*.aux
+bin/
+obj/
+*.test-cache
+*.swp
+_ReSharper.*/
+TestResults/
+*.ReSharper.user
+test-results/
+*.xcworkspace
